@@ -1,0 +1,31 @@
+{
+
+    "bot": {
+        "login": "OTQzOTg4ODE2MTIzOTMyNjcz.Yg7EGA.sIEa1yiDEJkpdiQlGYtESX2rT60"
+    },
+
+    "vanityprio": {
+        "channelid": "943272322964533272",
+
+        "roleid": "943272246233940018",
+
+        "discordvanity": "discord.gg/ypbwrld"
+    },
+
+    "embed": {
+        "help": "#0000FF",
+        "hi": "#0000FF",
+        "add": "#AAFF00",
+        "took": "#FF0000"
+    },
+
+    "title": {
+        "add": "Vanity Role Added!",
+        "took": "Vanity Role Removed!"
+    },
+
+    "console": {
+        "logs": true
+    }
+
+}
